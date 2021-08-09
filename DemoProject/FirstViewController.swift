@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FirstViewController.swift
 //  DemoProject
 //
 //  Created by SaiKiran Panuganti on 09/08/21.
@@ -7,14 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class FirstViewController: UIViewController{
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("View Controller")
+        print("Screen 1")
     }
-
-
+    
 }
-
